@@ -27,4 +27,4 @@ Busco oportunidade como **Desenvolvedor Backend Júnior (PHP)** ou estágio. Que
 ## Contato
 
 Email: eutfthiagofreitas@gmail.com
-LinkedIn: [linkedin.com/in/seu-link](https://www.linkedin.com/in/thiago-freitas-33556a403/)
+LinkedIn: [linkedin.com/in/thiagosag](https://www.linkedin.com/in/thiago-freitas-33556a403/)
