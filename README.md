@@ -10,7 +10,6 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 
 ## Estudando
 
-- Organização de código backend (separação de camadas, responsabilidades)
 - Padrões de arquitetura
 - Evolução no uso de frameworks
 - Versionamento profissional com Git (branches, histórico limpo)
