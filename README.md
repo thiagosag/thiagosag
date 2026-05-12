@@ -1,6 +1,6 @@
 # Thiago Freitas
 
-Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções desnecessárias e complexas. Atualmente mantenho-me focado em backend com PHP e MySql.
+Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções desnecessárias e complexas. Atualmente mantenho-me focado em backend com PHP e MySQL.
 
 **Atualmente cursando:**
 - Análise e Desenvolvimento de Sistemas, Universidade São Judas Tadeu.
@@ -14,7 +14,6 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 - Padrões de arquitetura
 - Evolução no uso de frameworks
 - Versionamento profissional com Git (branches, histórico limpo)
-- Novas linguagens e frameworks
 
 ---
 
