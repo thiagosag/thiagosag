@@ -8,37 +8,6 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 
 ---
 
-## Stack
-
-**Backend**
-- PHP (principal linguagem)
-- Experiência com PHP puro (sem abstrações excessivas)
-- Laravel (em evolução)
-- Slim Framework (foco em APIs REST)
-
-**Frontend**
-- JavaScript (nível funcional)
-- Vue.js
-- HTML / CSS
-- Bootstrap
-
-**Banco de Dados**
-- MySQL
-
----
-
-## O que eu já construí
-
-- APIs REST com Slim
-- Sistemas backend com PHP puro
-- Integração frontend e backend
-- Estruturação de banco de dados relacional
-- Correção e adaptação de código existente
-- Extesão para navegadores alimentada por widgets
-- Sistema de blog completo (área de admin, gestão de posts e etc...)
-
----
-
 ## Estudando
 
 - Organização de código backend (separação de camadas, responsabilidades)
