@@ -12,7 +12,6 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 
 - Padrões de arquitetura
 - Evolução no uso de frameworks
-- Versionamento profissional com Git (branches, histórico limpo)
 
 ---
 
