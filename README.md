@@ -19,6 +19,7 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 
 Busco oportunidade como **Desenvolvedor Backend Júnior (PHP)** ou estágio. 
 Atualmente estudando frameworks modernos e aplicações com relações mais complexas em banco de dados.
+
 ---
 
 ## Contato
