@@ -10,14 +10,13 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 
 ## Estudando
 
-- Padrões de arquitetura
-- Evolução no uso de frameworks
+- Laravel
 
 ---
 
 ## Objetivo
 
-Busco oportunidade como **Desenvolvedor Backend Júnior (PHP)** ou estágio. Quero entrar em ambiente onde exista código real, problemas reais e necessidade de evolução constante.
+Busco oportunidade como **Desenvolvedor Backend Júnior (PHP)** ou estágio. 
 
 ---
 
