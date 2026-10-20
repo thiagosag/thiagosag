@@ -11,13 +11,14 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 ## Estudando
 
 - Laravel
+- Banco de dados relacionais
 
 ---
 
 ## Objetivo
 
 Busco oportunidade como **Desenvolvedor Backend Júnior (PHP)** ou estágio. 
-
+Atualmente estudando frameworks modernos e aplicações com relações mais complexas em banco de dados.
 ---
 
 ## Contato
