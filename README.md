@@ -12,6 +12,7 @@ Prefiro desenvolver códigos legíveis e funcionais em constraste de soluções 
 
 - Laravel
 - Banco de dados relacionais
+- Desenvolvimento de Software
 
 ---
 
